@@ -1,4 +1,7 @@
-# Trabalho de Conclusão de Curso - MBA em Data Science &amp; Analytics | dez2022
+# Trabalho de Conclusão de Curso - MBA em Data Science &amp; Analytics
+
+Instituição:  USP/ESALQ
+dez/2022
 
 ## Tema: Machine Learning aplicado para análise de comportamento de consumo e previsão de evasão de cliente 
 
